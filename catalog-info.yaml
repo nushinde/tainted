@@ -1,22 +1,22 @@
-apiVersion: hello123.io/v1alpha1
+apiVersion: rhino.io/v1alpha1
 kind: Component
 metadata:
-  name: hello123
+  name: rhino
   description: |
-    hello123 is an open-source developer portal that puts the developer experience first. <u>nnn
+    rhino is an open-source developer portal that puts the developer experience first. <u>nnn
   links:
     - title: Website
-      url: http://hello123.io/?<b>nnn
+      url: http://rhino.io/?<b>nnn
     - title: Documentation
-      url: https://hello123.io/docs
+      url: https://rhino.io/docs
     - title: Storybook
-      url: https://hello123.io/storybook
+      url: https://rhino.io/storybook
     - title: Discord Chat
       url: https://discord.com/invite/EBHEGzX
   annotations:
-    github.com/project-slug: hello123/hello123
-    hello123.io/techdocs-ref: dir:.
-    lighthouse.com/website-url: https://hello123.io
+    github.com/project-slug: rhino/rhino
+    rhino.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://rhino.io
 spec:
   type: library
   owner: CNCF
