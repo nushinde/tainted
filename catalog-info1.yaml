@@ -1,0 +1,23 @@
+apiVersion: rhino.io/v1alpha1
+kind: Component
+metadata:
+  name: rhino
+  description: |
+    rhino is an open-source developer portal that puts the developer experience first. <u>nnn
+  links:
+    - title: Website
+      url: http://rhino.io/?<b>nnn
+    - title: Documentation
+      url: https://rhino.io/docs
+    - title: Storybook
+      url: https://rhino.io/storybook
+    - title: Discord Chat
+      url: https://discord.com/invite/EBHEGzX
+  annotations:
+    github.com/project-slug: rhino/rhino
+    rhino.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://rhino.io
+spec:
+  type: library
+  owner: CNCF
+  lifecycle: experimental
