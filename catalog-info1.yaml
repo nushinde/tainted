@@ -1,22 +1,22 @@
-apiVersion: backstage.io/v1alpha1
+apiVersion: backstagee.io/v1alpha1
 kind: Component
 metadata:
-  name: rhino
+  name: backstagee
   description: |
-    rhino is an open-source developer portal that puts the developer experience first. <u>nnn
+    backstagee is an open-source developer portal that puts the developer experience first.
   links:
     - title: Website
-      url: http://rhino.io/?<b>nnn
+      url: http://backstagee.io
     - title: Documentation
-      url: https://rhino.io/docs
+      url: https://backstagee.io/docs
     - title: Storybook
-      url: https://rhino.io/storybook
+      url: https://backstagee.io/storybook
     - title: Discord Chat
       url: https://discord.com/invite/EBHEGzX
   annotations:
-    github.com/project-slug: rhino/rhino
-    rhino.io/techdocs-ref: dir:.
-    lighthouse.com/website-url: https://rhino.io
+    github.com/project-slug: backstagee/backstagee
+    backstagee.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://backstagee.io
 spec:
   type: library
   owner: CNCF
