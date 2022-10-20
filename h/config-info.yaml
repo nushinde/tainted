@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: backstage/demo
 spec:
-  type: website<i>x'""
-  owner: security<i>x'""
-  lifecycle: experimental<i>x'""
+  type: website'"}}--
+  owner: security'"}}--
+  lifecycle: experimental'"}}--
 
