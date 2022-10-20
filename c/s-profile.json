@@ -1,6 +1,14 @@
 {
     "type":"microservice<i>xxxx",
-    "ownership": "<img src=0>",
+    "ownership": {
+        "name":"<img src=0>",
+        "domain":"xxx'\"%22&#60;xxxxx",
+        "segment":"xxx'\"%22&#60;xxxxx",
+        "group":"xxx'\"%22&#60;xxxxx",
+        "team":"xxx'\"%22&#60;xxxxx",
+        "productManager":"xxx'\"%22&#60;xxxxx",
+        "engineeringManager":"xxx'\"%22&#60;xxxxx"
+    }
     "contact":"abc'%22\"<iframe>",
     "status" :"active"
 }
